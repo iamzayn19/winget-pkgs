@@ -9,6 +9,7 @@ PackageUrl: https://github.com/iamzayn19/kara
 License: Apache-2.0
 LicenseUrl: https://github.com/iamzayn19/kara/blob/main/LICENSE
 ShortDescription: Local-first coding agent. CLI and VS Code. Your code, your compute.
+Description: Kara is a local-first coding agent. It searches a repository, reads the relevant code, edits it, runs the tests, recovers from failures and reports what changed. No account, no subscription, no telemetry. Inference runs on this machine, another machine you own, or an OpenAI-compatible endpoint you control.
 Moniker: kara
 Tags:
   - coding-agent
